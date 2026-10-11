@@ -1,0 +1,21 @@
+* {
+    font-family: Arirl, sans-serif;
+}
+h1 {
+    color: #1e1e1e;
+    font-size: 70px;
+    background-color: #ffcc00;
+}
+p {
+    font-size: 18px;
+    color: black;
+}
+body {
+    font-family: "Gill Sans", sans-serif;
+    font-size: 18px;
+    background-color: white;
+}
+h2 {
+    font-size: 38px;
+    color: black;
+}
